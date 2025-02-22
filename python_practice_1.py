@@ -1,0 +1,1 @@
+print("Katerina Demianik, Group-1, 2025")
